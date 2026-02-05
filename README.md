@@ -1,2 +1,4 @@
-# ui_component_library
-Modular UI components and custom widgets for branding and layout
+# Video Assets System - Phase 2
+Secondary storage for product demonstrations and user guides.
+- Sync Method: GitHub API via Flutter.
+- Content: Web Optimized MP4.
